@@ -117,26 +117,6 @@ Before running this application, ensure you have:
    - **Shuffle**: Randomize the playlist order
    - **Display Playlist**: View all songs in current playlist
 
-## 📱 Features in Detail
-
-### **User Registration Process**
-- Name validation (minimum 4 characters)
-- Mobile number validation (10 digits, starting with 7/8/9)
-- Date of birth validation (YYYY-MM-DD format)
-- Password creation (4 characters with confirmation)
-
-### **Playlist Management**
-- Add songs from available catalog
-- Remove songs from playlist
-- Create new playlist (replaces existing)
-- View current playlist contents
-
-### **Music Playback**
-- Support for WAV audio files
-- Real-time song information display
-- Interactive playback controls
-- Error handling for missing files
-
 ## 🔍 Code Structure
 
 ```java
